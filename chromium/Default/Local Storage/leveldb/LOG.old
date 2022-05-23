@@ -1,0 +1,6 @@
+2022/05/23-23:10:13.820 3 Reusing MANIFEST /home/paimon/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2022/05/23-23:10:13.821 3 Recovering log #3
+2022/05/23-23:10:13.821 3 Reusing old log /home/paimon/.config/chromium/Default/Local Storage/leveldb/000003.log 
+2022/05/23-23:34:18.030 c Level-0 table #5: started
+2022/05/23-23:34:18.033 c Level-0 table #5: 20167 bytes OK
+2022/05/23-23:34:18.036 c Delete type=0 #3
